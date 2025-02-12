@@ -4,6 +4,7 @@
 #### needs links to projects adding for submission
 
 
+
 **PERSONAL PROFILE**
 
 A hardworking and dedicated individual, computer literate with an outstanding analytical record, and committed to completing any given task to the best of my ability. I have a proven track record of improving processes, lowering costs, meeting sales targets, and working as part of a team, often in a leading role, to achieve common goals. I am very competitive and aspire to be the best at what I do in every aspect of my life, both individually and as part of a team. I currently work as a Pricing Analyst for a European automation parts and solutions distributor. This role involves managing, analysing, and presenting large datasets to stakeholders at all levels of the business. I am also studying towards a Data Scientist Integrated Degree Apprenticeship with BPP University, where I am learning to use Python and other data engineering, visualisation, and analytics tools such as SQL, Power BI, and various machine learning libraries. During 2014, I took a six-month sabbatical to travel around Australia by myself. I worked in a bar in Brisbane for three months before exploring the rest of Australia, visiting the major cities and landmarks. This gave me a great perspective on the world and a lot of time to discover where I wanted to take my life both personally and professionally.
@@ -12,15 +13,16 @@ A hardworking and dedicated individual, computer literate with an outstanding an
 
 **EDUCATION AND QUALIFICATIONS**
 
-**2024-Present       BSc (Hons) - Data Science**                              
+**2024-Present       BSc (Hons) - Data Science**           
+
 BPP University
+
 Currently studying Data Scientist Integrated Degree Apprenticeship  
   
 **2008-2010             Cert HE – Physics**
 
 Nottingham Trent University  
   
-
 **2005-2008            A-Levels**
 
 John Cleveland College, Hinckley, Leicestershire
