@@ -1,6 +1,7 @@
 # Data Scientist
-
 #### in the making
+
+#### needs updating and links to projects adding for submission
 
 **PERSONAL PROFILE**
 
