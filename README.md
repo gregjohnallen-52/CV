@@ -12,13 +12,13 @@ A hardworking and dedicated individual, computer literate with an outstanding an
 
 **EDUCATION AND QUALIFICATIONS**
 
-**2024-Present       BSc (Hons) - Data Science**                              BPP University
-
-                              Currently studying Data Scientist Integrated Degree Apprenticeship  
+**2024-Present       BSc (Hons) - Data Science**                              
+BPP University
+Currently studying Data Scientist Integrated Degree Apprenticeship  
   
 **2008-2010             Cert HE – Physics**
 
-                              Nottingham Trent University  
+Nottingham Trent University  
   
 
 **2005-2008            A-Levels**
