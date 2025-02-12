@@ -2,32 +2,6 @@
 
 #### in the making
 
-## Education
-
-## Work Experience
-
-![Routeco](assets/routeco_logo.png)
-
-**Routeco Ltd - Pricing Analyst June 2022 - Present**
-
-## Skills
-
-**Greg Allen**
-
-**Purchasing and Logistics Manager**
-
-47 Main Street
-
-Higham on the Hill
-
-Leicestershire
-
-CV13 6AH
-
-Tel: **07855028201**
-
-E-mail: **gregjohnallen@gmail.com**
-
 **PERSONAL PROFILE**
 
 A hardworking and dedicated individual, that is computer literate with an outstanding analytical record, and committed to completing any given task to the best of my ability. I have a proven track record of improving processes, lowering cost, meeting sales targets and working as a part of a team, often in a leading role, to achieve common goals. I am a very competitive person and aspire to be the best at what I do in every aspect of my life, both individually and as part of a team.
@@ -46,15 +20,6 @@ John Cleveland College, Hinckley, Leicestershire
 
 Psychology (B), Maths (C), and Physics (B).
 
-**2003-2005            GCSEs**
-
-William Bradford Community College, Earl Shilton, Leicestershire
-
-Mathematics (A), Science-Double Award (AA), Graphics (B),
-
-English Literature (B), English Language (C), History (C), Geography (C), IT (D), Spanish (E)
-
----
 
 **KEYSKILLS**
 
@@ -91,6 +56,8 @@ management skills. The ability to meet deadlines is an important part of my life
 **WORK EXPERIENCE**
 
 **04/07/2022 – Current: Routeco Limited, Pricing Analyst**
+
+![Routeco](assets/routeco_logo.png)
 
 Routeco Ltd, Davy Avenue, Knowlhill, Milton Keynes, MK5 8HJ
 
