@@ -1,8 +1,9 @@
 # Data Scientist
 #### in the making
 
-#### needs links to projects adding for submission
-
+You can find links to my data science projects below:
+[Work Project Impact Report] ((https://gregjohnallen-52.github.io/CV/ "Work Project Impact Report")
+[Open Dource Data Project] (https://gregjohnallen-52.github.io/CV/ "Open Source Data Project")
 
 
 **PERSONAL PROFILE**
