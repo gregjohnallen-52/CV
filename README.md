@@ -7,7 +7,7 @@
 ## Work Experience
 
 **Routeco Ltd - Pricgin Analyst June 2022 - Present**
-![Routeco](assets/routeco.png)
+![Routeco](assets/routeco_logo.png)
 
 ## Skills
 
