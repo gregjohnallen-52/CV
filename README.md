@@ -1,19 +1,25 @@
 # Data Scientist
 #### in the making
 
-#### needs updating and links to projects adding for submission
+#### needs links to projects adding for submission
+
 
 **PERSONAL PROFILE**
 
-A hardworking and dedicated individual, that is computer literate with an outstanding analytical record, and committed to completing any given task to the best of my ability. I have a proven track record of improving processes, lowering cost, meeting sales targets and working as a part of a team, often in a leading role, to achieve common goals. I am a very competitive person and aspire to be the best at what I do in every aspect of my life, both individually and as part of a team.
-
-I currently work as a Purchasing and Logistics Manager for an aftermarket TPMS and OE valve hardware manufacturer in the automotive industry, where I have helped build the company in its initial months to a multi-national company with a large customer base. This job has helped extend my interest in vehicles of all natures, and the technical side of automotive products. My duties include analysis of all pricing and logistical processes, product development, performing and documenting the testing of new products, creating and maintaining a pricing and product data base, procurement of all products, visiting and receiving customers and suppliers, attending and visiting exhibitions, and management of both the warehouse and its personnel as well as general admin tasks. I originally started this job in an Administration capacity as part of a 2-person team, since then the company has grown into a multi-national organisation with over 30 employees of which I am now part of the management team after holding the role of Pricing Analyst for several years.
-
-During 2014 I took a six-month sabbatical to travel around Australia by myself. I worked in a bar in Brisbane for three months before exploring the rest of Australia, visiting the major cities and landmarks. This gave me a great perspective on the world and a lot of time to discover where I wanted to take my life both personally and professionally.
+A hardworking and dedicated individual, computer literate with an outstanding analytical record, and committed to completing any given task to the best of my ability. I have a proven track record of improving processes, lowering costs, meeting sales targets, and working as part of a team, often in a leading role, to achieve common goals. I am very competitive and aspire to be the best at what I do in every aspect of my life, both individually and as part of a team. I currently work as a Pricing Analyst for a European automation parts and solutions distributor. This role involves managing, analysing, and presenting large datasets to stakeholders at all levels of the business. I am also studying towards a Data Scientist Integrated Degree Apprenticeship with BPP University, where I am learning to use Python and other data engineering, visualisation, and analytics tools such as SQL, Power BI, and various machine learning libraries. During 2014, I took a six-month sabbatical to travel around Australia by myself. I worked in a bar in Brisbane for three months before exploring the rest of Australia, visiting the major cities and landmarks. This gave me a great perspective on the world and a lot of time to discover where I wanted to take my life both personally and professionally.
 
 ---
 
 **EDUCATION AND QUALIFICATIONS**
+
+**2024-Present       BSc (Hons) - Data Science**                              BPP University
+
+                              Currently studying Data Scientist Integrated Degree Apprenticeship  
+  
+**2008-2010             Cert HE – Physics**
+
+                              Nottingham Trent University  
+  
 
 **2005-2008            A-Levels**
 
@@ -21,44 +27,39 @@ John Cleveland College, Hinckley, Leicestershire
 
 Psychology (B), Maths (C), and Physics (B).
 
+**2003-2005            GCSEs**
+
+William Bradford Community College, Earl Shilton, Leicestershire
+
+Mathematics (A), Science-Double Award (AA), Graphics (B),
+
+English Literature (B), English Language (C), History (C), Geography (C), IT (D), Spanish (E)
+
+---
 
 **KEYSKILLS**
 
 **Computing**
 
-During my current role I have taught myself to have a very strong understanding of Microsoft **Excel**, I also have a good level of general computer literacy, gained through day to day use and University I.T. modules. This has given me experience and confidence in the following software packages: Minitab, LabVIEW, DevC++, MS Publisher, MS Outlook, MS Paint, MS Word and MS PowerPoint. My current role involves using **Excel** to an advanced level, **SQL** and **Sage** 50 Accounts Professional to a high standard.
+I have a good level of general computer literacy, gained through experience in the workplace. This has given me experience and confidence in the following software packages: MS Excel, MS Power BI, MS Access, MS Outlook, MS Paint, MS Word, Sage 50 accounts, and MS PowerPoint. My current role involves using Power BI, Excel, and Access to an advanced level, SQL to a professional level, and I am currently developing my Python skills for use in a data science environment.
 
 **Teamwork**
 
-I enjoy working in a team as well as individually. As part of my work with Hamaton Ltd I am part of a small and focused team that involved holding, and participating in product, pricing and sales meetings. As well as attending exhibitions as an exhibitor for a week at a time in a foreign country, this experience depending upon working as a strong team with my colleagues to promote the business.
-
-During my employment at Flutters Bingo, my job involved working closely with and managing up to 20 employees and required me to work efficiently on my own for several hours at a time. Furthermore, in this role I as Assistant Manager I was responsible for motivating the team and ensuring other members of staff knew their roles and what was expected of them.
-
-The practical based aspects of my university course involve working closely with other students to plan and conduct experiments.
-
-In my spare time I am an avid hockey player, I have been part of a hockey club since I was 10 years of age and have been an active hockey player for most of that period as well as time spent in senior roles within those clubs. This has given me vast experience of running and being part of a close-knit team in my free time as well as professionally.
+I enjoy working in a team as well as individually. In my current role at Routeco Ltd, I collaborate closely with various departments to analyse and present large datasets. This involves participating in cross-functional meetings and working with stakeholders at all levels to ensure data-driven decision-making. My experience at Routeco has strengthened my ability to work as part of a cohesive team to achieve common goals. Additionally, my previous roles have provided me with extensive experience in team dynamics and leadership, which I continue to apply in my current position.
 
 **Communication**
 
-At Hamaton Ltd. my role involves constant communication with my colleagues and customers in order to successfully expand the business in a growing market, this involved orchestrating the development and distribution of several products both in a personal and online capacity. I also communicate with customers, over email, over the phone or in person, on either customer visits or at exhibitions. My work at Flutters bingo involved a lot of contact with the general public, often several thousand at a time, as well as several other members of staff. My university work involved a lot of communication, both written and verbal with other students and with teaching staff. Thus, I am not daunted by the prospect of presenting to people in a more senior role nor to large numbers.
+At Routeco Ltd, my role involves constant communication with colleagues and stakeholders to present data insights and support business strategies. I regularly prepare and deliver presentations to senior management, ensuring that complex data is communicated clearly and effectively. My work requires me to liaise with various departments, providing data-driven recommendations and collaborating on projects. This experience has honed my ability to communicate technical information to non-technical audiences, both in written and verbal forms.
 
 **Time Management and Organisation**
 
-I have an excellent track record of meeting multiple deadlines for product development and pricing exercises.
-
-Maintaining part-time employment as well as extra-curricular interests throughout my College and University education helped me to develop my time management and financial
-
-management skills. The ability to meet deadlines is an important part of my life, both professionally and socially.
-
+I have an excellent track record of meeting multiple deadlines for product development and pricing exercises. Maintaining part-time employment as well as extra-curricular interests throughout my college and university education helped me to develop my time management and financial management skills. The ability to meet deadlines is an important part of my life, both professionally and socially..
 
 ---
-
 
 **WORK EXPERIENCE**
 
 **04/07/2022 – Current: Routeco Limited, Pricing Analyst**
-
-![Routeco](assets/routeco_logo.png)
 
 Routeco Ltd, Davy Avenue, Knowlhill, Milton Keynes, MK5 8HJ
 
@@ -68,7 +69,7 @@ Routeco Ltd, Davy Avenue, Knowlhill, Milton Keynes, MK5 8HJ
 
 ·        Project Management
 
-·        Power BI
+·        Power BI analytics and dashboards
 
 ·        Large Data Analysis
 
@@ -138,9 +139,7 @@ Flutters Bingo Club, Jackson Street, Coalville, Leicestershire, LE67 3LT.
 
 Flutters Bingo and Social Club, Rugby Road, Hinckley, Leicestershire, LE10 0QD.
 
-
 ---
-
 
 **INTERESTS AND ACTIVITIES**
 
@@ -156,6 +155,4 @@ I am a self-confessed “Petrol Head” and have a keen interest in vehicles and
 
 Alongside my other interests I try to spend as much time as possible with my friends and family, I regularly enjoy activities including but not limited to; hiking, visiting museums, playing and watching football, watching rugby, and taking trips abroad. I am also a qualified tyre technician and a qualified first aider.
 
-
 ---
-
