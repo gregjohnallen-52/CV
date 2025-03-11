@@ -4,7 +4,7 @@
 You can find links to my data science projects below:
 
 
-- [Open Source Data Project](https://gregjohnallen-52.github.io/CV/ "Open Source Data Project")
+- [Open Source Data Project](https://github.com/gregjohnallen-52/Open-Source-Data-Science-Project "Open Source Data Project")
 
 
 **PERSONAL PROFILE**
