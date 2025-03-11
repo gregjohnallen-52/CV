@@ -3,7 +3,6 @@
 
 You can find links to my data science projects below:
 
-- [Work Project Impact Report]((https://gregjohnallen-52.github.io/CV/ "Work Project Impact Report")
 
 - [Open Source Data Project](https://gregjohnallen-52.github.io/CV/ "Open Source Data Project")
 
